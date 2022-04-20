@@ -1,0 +1,125 @@
+@media screen and (max-width : 1200px) {
+    #hero p{
+        font-size: 10px;
+    }
+
+    #hero h2{
+        font-size: 23px ;
+    }
+
+    #hero{
+        margin-top: 200px;
+    }
+
+    #skill{
+        min-height: 100vh;
+    }
+
+    #project{
+        min-height: 100vh;
+    }
+}
+
+@media screen and (max-width : 768px) {
+    #hero h2{
+        font-size: 17px;
+    }
+
+    #hero h1{
+        font-size: 20px;
+    }
+
+    .foto {
+        margin-left: 45px;
+        width: 40%;
+    }
+
+    #skill h1{
+        font-size: 25px;
+    }
+
+    #skill h2{
+        font-size: 17px;
+    }
+
+    #skill img{
+        margin: 30px;
+    }
+
+    #project h1{
+        font-size: 25px;
+    }
+
+    #project iframe{
+        width: 100%;
+    }
+
+    #contact h1{
+        font-size: 20px;
+    }
+
+    #contact p{
+        font-size: 14px;
+    }
+
+    .img-custom1{
+        width: 10%;
+    }
+}
+@media screen and (max-width : 576px) {
+    .navbar{
+        font-size: 10px;
+    }
+    .navbar-brand{
+        font-size: 15px;
+    }
+    .foto{
+        width: 80%;
+    }
+
+    #hero h2{
+        margin-top: 20px;
+        font-size: 15px;
+    }
+
+    .downloadcv img{
+        width: 35%;
+    }
+
+    #skill h1{
+        font-size: 20px;
+    }
+
+    #skill h2{
+        font-size: 15px;
+    }
+
+    #skill img{
+        margin: 15px;
+        width: 11%;
+    }
+
+    #project h1{
+        font-size: 20px;
+    }
+
+    #contact h1{
+        font-size: 17px;
+    }
+
+    #contact p{
+        font-size: 10px;
+    }
+
+    .back img{
+        width: 15%;
+    }
+
+    footer{
+        font-size: 8px;
+    }
+}
+
+@media screen and (max-width : 350px) {
+
+}
